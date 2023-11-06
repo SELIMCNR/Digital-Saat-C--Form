@@ -38,7 +38,7 @@
             // 
             // timer1
             // 
-            timer1.Interval = 400;
+            timer1.Interval = 100;
             timer1.Tick += timer1_Tick;
             // 
             // label1
