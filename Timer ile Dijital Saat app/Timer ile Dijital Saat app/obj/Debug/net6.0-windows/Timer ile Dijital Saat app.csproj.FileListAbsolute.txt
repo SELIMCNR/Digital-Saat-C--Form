@@ -1,0 +1,16 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\bin\Debug\net6.0-windows\Timer ile Dijital Saat app.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\bin\Debug\net6.0-windows\Timer ile Dijital Saat app.deps.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\bin\Debug\net6.0-windows\Timer ile Dijital Saat app.runtimeconfig.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\bin\Debug\net6.0-windows\Timer ile Dijital Saat app.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\bin\Debug\net6.0-windows\Timer ile Dijital Saat app.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer_ile_Dijital_Saat_app.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer ile Dijital Saat app.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer ile Dijital Saat app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer ile Dijital Saat app.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer ile Dijital Saat app.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer ile Dijital Saat app.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer ile Dijital Saat app.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\refint\Timer ile Dijital Saat app.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer ile Dijital Saat app.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\Timer ile Dijital Saat app.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project13\Timer ile Dijital Saat app\Timer ile Dijital Saat app\obj\Debug\net6.0-windows\ref\Timer ile Dijital Saat app.dll
